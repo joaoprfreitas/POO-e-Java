@@ -1,0 +1,3 @@
+Computer,890.50
+Iphone 14,910.50
+Ipad,1000.00
